@@ -5,4 +5,4 @@ We all eagerly wait for Black Friday sales and plan ahead in order to make most 
 The objective of ABC retail stores is to set optimal prices for the products on Black Friday sales day so that it can make maximum
 revenue. This problem is interesting and equally challenging. The study of past behavior of customers of ABC store and analyze their
 purchase patterns with help of machine learning to predict the purchase price for the different product can solve this potential problem
-and help ABC to achieve their objective.
+and help ABC to achieve their objectives.
